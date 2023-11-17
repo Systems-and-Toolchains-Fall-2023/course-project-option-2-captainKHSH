@@ -158,6 +158,6 @@ Initializing instance of our model.it employs a multilayer perceptron architectu
 3. If you have issues running on the cloud then restart the kernel or change the region of the cluster.
 
 ## Code Walkthrough access from dropbox
-https://www.dropbox.com/scl/fi/3ja4d3j6jo9oeghusc5wg/MQTT-project-code-walkthrough_QR.png?rlkey=1tjv56c1u6mh8um4uyyqa6u88&dl=0
+https://www.dropbox.com/scl/fo/jtpy67wa8uhrxdi9lq77p/h?rlkey=4vuf880j0spvkmg7cbpvf52e9&dl=0
 
 
